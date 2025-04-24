@@ -9,5 +9,5 @@
 <a href="https://www.leetcode.com/chariob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chariob" height="30" width="40" /></a>
 </p>
 <p align="center">
-  You may also check my [portfolio](https://chariomich.github.io/cf-portfolio/) webpage running on GitHub Pages.
+  You may also check my <a href="https://chariomich.github.io/cf-portfolio/" target="_blank">portfolio</a> webpage running on GitHub Pages.
 </p>
