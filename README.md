@@ -8,3 +8,6 @@
 <p align="center">
 <a href="https://www.leetcode.com/chariob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chariob" height="30" width="40" /></a>
 </p>
+<p align="center">
+  You may also check my portfolio webpage on the link provided in the GitHub's bio section.
+</p>
