@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charalampos,</h1>
-<h3 align="center">an aspiring full stack dev from Greece.</h3>
+<h3 align="center">a full stack dev from Greece.</h3>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
