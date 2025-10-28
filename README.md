@@ -33,5 +33,5 @@
 <a href="https://www.leetcode.com/chariob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chariob" height="30" width="40" /></a>
 </p>
 <p align="center">
-  You may as well check my <a href="https://personal-portfolio-azure-delta.vercel.app/" target="_blank">portfolio</a> webpage running on GitHub Pages.
+  You may as well check my <a href="https://personal-portfolio-azure-delta.vercel.app/" target="_blank">portfolio</a> webpage running on Vercel.
 </p>
